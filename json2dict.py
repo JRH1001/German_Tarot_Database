@@ -9,6 +9,3 @@ for card in data:
     
 with open("tarot_database_formated.json", "w") as file:
     json.dump(tarot_cards, file, indent=4)
-    
-    
-    

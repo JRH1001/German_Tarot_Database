@@ -1,4 +1,4 @@
-# German_Tarot_Database
+# German Tarot Database
 A Database/Description of the 78 Tarot cards in German translation in JSON format.
 #
 Every card contains a dictionary with the following keys:    

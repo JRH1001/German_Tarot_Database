@@ -1,5 +1,6 @@
 # German Tarot Database
 A Database/Description of the 78 Tarot cards in German translation in JSON format.
+Created with the help of Gemini Flash 2.0
 #
 Every card contains a dictionary with the following keys:    
 

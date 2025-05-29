@@ -1,3 +1,4 @@
+#A Simple script that converts the given JSON string into an acutall usable dictionary
 import json
 
 tarot_cards = {}
